@@ -1,3 +1,9 @@
+/*******************************************************************
+* Thruster controlling of an ASV using Hardware PWM in Arduino IDE
+by Avirup Ghosh (avirup.ece2013@gmail.com)
+*********************************************************************/
+
+
 #include <TimerOne.h>
 #include <ros.h>
 #include <auv_test/ThVoltMsg.h>
